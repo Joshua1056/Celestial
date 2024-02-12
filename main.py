@@ -1,7 +1,7 @@
 import disnake
 from disnake.ext import commands
 bot = commands.Bot()
-token = "MTIwNTczNDA4MTM2MzU3ODk0MQ.G09iTC.aXzy2HyeeS7L1IdKMehgauTY3seIo7VBb1hjNM"
+token = "you thought i left the token here? of course not!"
 
 @bot.event
 async def on_ready():
